@@ -23,7 +23,7 @@ public class AplikasiCarterRiamKanan {
 
     public static void main(String[] args) {
         // ===== [No.2] OBJECT ===== (GANTI identitas Anda di sini!)
-        profil = new IdentitasMahasiswa("NAMA LENGKAP ANDA", "NPM ANDA", "KELAS ANDA", "Teknik Informatika");
+        profil = new IdentitasMahasiswa("Muhammad Satrio Habibi", "2410010534", "4A", "Teknik Informatika");
         profil.banner();
 
         siapkanData();
