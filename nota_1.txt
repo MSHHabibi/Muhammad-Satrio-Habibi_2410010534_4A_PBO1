@@ -1,0 +1,14 @@
+Dicetak oleh : NAMA LENGKAP ANDA - NPM ANDA
+
+############ NOTA CARTER #1 ############
+ Pemesan      : bian
+ Armada       : Perahu Kelotok (KLT-12)
+ Keunggulan   : Terbuka lega, 1 mesin, cocok rombongan keluarga besar
+ Tujuan       : Bukit Batu (biaya rute Rp 180.000)
+ Konsumsi     : Kudapan + Air Mineral
+ Penumpang    : 8 orang
+ Sewa         : 6 jam (akhir pekan +10%)
+ Sebelum promo: Rp 874.500
+ Promo        : 3.0%
+ TOTAL BAYAR  : Rp 848.265
+#######################################
